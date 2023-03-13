@@ -1,6 +1,6 @@
 package HomeWork;
 
-public class Task05 {
+public class Task5 {
     public static void main(String[] args) {
         int num1 = 3;
         int num2 = 56;
